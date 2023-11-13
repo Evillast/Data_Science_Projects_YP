@@ -1,6 +1,7 @@
 # Determining a promising tariff for a mobile operator
 
 #### Introduction
+
 The mobile operator Megaline offers customers two tariff plans to choose from: “Smart” and “Ultra”. To adjust the advertising budget, the commercial department wants to understand which tariff brings in more money.
 We have at our disposal the data of 500 Megaline users: who they are, where they are from, what tariff they use, how many calls and messages each person sent in 2018.
 
@@ -39,4 +40,4 @@ To analyze customer behavior and to draw a conclusion: which tariff, “Smart”
   - The average revenue per user of the “Smart” tariff, although lower than that from the user of the “Ultra” tariff, increased by 2 times during the year, while the average revenue per user of the “Ultra” tariff remained almost unchanged;
   - Considering the trend of intensive growth in the number of users of the “Smart” tariff and the growth in the volume of services consumed by them, and consequently the average revenue per user, we can expect that the share of the company’s profit from the “Smart” tariff will only grow, and the share of profit from the “Ultra” tariff - decline.<br>
   
-  Therefore, we recommend more actively advertising the “Smart” tariff.
+- Therefore, we recommend more actively advertising the “Smart” tariff.
