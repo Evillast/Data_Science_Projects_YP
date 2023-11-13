@@ -2,7 +2,7 @@
 
 #### Purpose of the study:
 
-Determine the factors influencing the repayment of the loan on time. The results of the study will be taken into account when constructing a credit scoring model - a system that assesses the ability of a potential borrower to repay the loan to the bank.
+To determine the factors influencing the repayment of the loan on time. The results of the study will be taken into account when constructing a credit scoring model - a system that assesses the ability of a potential borrower to repay the loan to the bank.
 
 #### Tasks:
 - To review the data;
