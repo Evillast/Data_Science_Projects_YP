@@ -6,7 +6,7 @@ To compare user behavior and musical preferences of residents of Moscow and St. 
 
 #### Tasks:
 - To review the data;
-- To Perform data preprocessing:
+- To perform data preprocessing:
 - To test hypotheses:
   - User activity depends on the day of the week, and differently in Moscow and St. Petersburg;
   - At the beginning and end of the week, different musical genres are most popular, some in Moscow and others in St. Petersburg;
