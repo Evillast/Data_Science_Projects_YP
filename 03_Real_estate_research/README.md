@@ -1,4 +1,4 @@
-# Research of advertisements for the sale of apartments in St. Petersburg and the Leningrad region
+# Research of advertisements for the sale of apartments in Saint Petersburg and the Leningrad region
 
 #### Purpose of the study:
 
