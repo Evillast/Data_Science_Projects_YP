@@ -5,7 +5,7 @@
 To researcg historical data available from open sources on game sales, user and expert ratings, genres and platforms and to identify patterns that determine the success of a game in order to predict the potential success of a product and plan advertising campaigns.
 
 #### Tasks:
-- To review the data;
+- To explore the data;
 - To perform data preprocessing;
 - To conduct exploratory data analysis:
   - Research the dynamics of game releases over the entire period;
