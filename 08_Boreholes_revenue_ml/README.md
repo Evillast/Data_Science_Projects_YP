@@ -2,7 +2,7 @@
 ​
 #### Introduction
 
-The production company GlavRosGosNeft needs to decide where to drill new wells.
+The production company “GlavRosGosNeft” needs to decide where to drill new wells.
 
 We were provided with oil samples in three regions: in each 100.000 wells, where the quality of oil and the volume of its reserves were measured.
 
