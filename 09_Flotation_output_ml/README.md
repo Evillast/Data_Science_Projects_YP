@@ -5,7 +5,7 @@
 To prepare a prototype of a machine learning model that will predict the recovery rate of gold from gold ore and thereby help optimize production in order not to launch an enterprise with unprofitable characteristics.
 
 #### Tasks:
-- To explore data and to check whether the efficiency of ore enrichment is calculated correctly;
+- To explore the data and to check whether the efficiency of ore enrichment is calculated correctly;
 - To perform data preprocessing;
 - To conduct exploratory data analysis:
   - To compare the size distribution of raw material granules on the training and test samples;
