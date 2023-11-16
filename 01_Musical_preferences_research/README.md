@@ -5,7 +5,7 @@
 To compare user behavior and musical preferences of residents of Moscow and St. Petersburg based on data from the Yandex Music service.
 
 #### Tasks:
-- To review the data;
+- To explore the data;
 - To perform data preprocessing;
 - To test hypotheses:
   - User activity depends on the day of the week, and differently in Moscow and St. Petersburg;
