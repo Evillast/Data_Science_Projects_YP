@@ -10,7 +10,7 @@ We have at our disposal the data of 500 Megaline users: who they are, where they
 To analyze customer behavior and to draw a conclusion: which tariff, “Smart” or “Ultra,” brings the company more money.
 
 #### Tasks:
-- To review the data;
+- To explore the data;
 - To perform data preprocessing;
 - To conduct exploratory data analysis and calculate monthly revenue from each user;
 - To test hypotheses:
