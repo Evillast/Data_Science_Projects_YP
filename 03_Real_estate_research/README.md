@@ -2,7 +2,7 @@
 
 #### Purpose of the study:
 
-To study the data of the Yandex Real Estate service - an archive of advertisements for several years about the sale of apartments in St. Petersburg and the Leningrad region in order to find interesting features and dependencies that exist in the real estate market, and determine the factors that most strongly influence the cost of apartments.
+To explore the data of the Yandex Real Estate service - an archive of advertisements for several years about the sale of apartments in St. Petersburg and the Leningrad region in order to find interesting features and dependencies that exist in the real estate market, and determine the factors that most strongly influence the cost of apartments.
 
 #### Tasks:
 - To explore the data;
