@@ -2,7 +2,7 @@
 
 #### Purpose of the study:
 
-To explore historical data available from open sources on game sales, user and expert ratings, genres and platforms and to identify patterns that determine the success of a game in order to predict the potential success of a product and plan advertising campaigns.
+To explore historical data available from open sources on computer game sales, user and expert ratings, game genres and platforms and to identify patterns that determine success of a computer game in order to predict potential success of a game product for planning advertising campaigns.
 
 #### Tasks:
 - To explore the data;
