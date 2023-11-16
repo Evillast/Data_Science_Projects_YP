@@ -12,7 +12,7 @@ To select a region for developing new wells.
 
 #### Tasks:
 
-- To review the data;
+- To explore the data;
 - To perform data preprocessing;
 - To build a machine learning model that will help to select the region where mining will bring the greatest profit;
 - To аnalyze possible profits and risks using the Bootstrap technique.
