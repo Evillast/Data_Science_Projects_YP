@@ -1,4 +1,4 @@
-# Determining a promising tariff for a mobile operator
+# Selection of a promising tariff for the mobile operator
 
 #### Introduction
 
