@@ -2,7 +2,7 @@
 
 #### Purpose of the study:
 
-To build a machine learning model that can predict, whether a client will leave the bank in the near future or not, based on historical data on client behavior and termination of contracts with the bank.
+To build a machine learning model that can predict, whether a customer will leave the bank in the near future or not, based on historical data on customer behavior and termination of contracts with the bank.
 
 #### Tasks:
 - To explore the data;
