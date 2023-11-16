@@ -28,17 +28,17 @@ Projects are presented in the form of iPython Notebooks. Each project comes with
   </tr>
   <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/04_Mobile_tariff_research">Selection of a promising tariff for the mobile operator</a></td>
-    <td></td>
+    <td>Analysis of customer behavior and selection of a promising tariff that will bring greater profit to the mobile operator company</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, Folium, Scipy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/05_Game_industry_research">Computer games industry research</a></td>
-    <td></td>
+    <td>Exploration of historical data available from open sources on computer game sales, user and expert ratings, game genres and platforms in order to identify patterns that determine the success of a game product</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, Scipy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/06_Mobile_tariff_ml">Mobile tariff recommendation model</a></td>
-    <td></td>
+    <td>Building a machine learning model for the mobile operator company that will select the appropriate tariff for the customer from two tariff plans to choose from based on data on the behavior of customers who have already switched to one of these tariffs</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, Sklearn</td>
   </tr>
   <tr>
@@ -58,6 +58,6 @@ Projects are presented in the form of iPython Notebooks. Each project comes with
   </tr>
   <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/10_Data_encoding_algorithm">Encryption algorithm to protect customer data</a></td>
-    <td>Development of an algorithm for protecting personal data of insurance company clients.</td>
+    <td>Development of an algorithm for protecting personal data of insurance company customers</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, Phik, Sklearn</td>
   </tr>
