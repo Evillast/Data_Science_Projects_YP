@@ -13,17 +13,17 @@ Projects are presented in the form of iPython Notebooks. Each project comes with
   </tr>
         <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/01_Musical_preferences_research">Musical preferences research of residents of Moscow and Saint Petersburg</a></td>
-    <td>Comparing of user behavior and musical preferences of residents of Moscow and St. Petersburg based on data from the Yandex Music service</td>
+    <td>Comparison of user behavior and musical preferences of residents of Moscow and St. Petersburg based on data from the Yandex Music service</td>
     <td>Pandas, Matplotlib, Seaborn</td>
   </tr>
       <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/02_Borrowers_reliability_research">Research of factors influencing the borrower's reliability</a></td>
-    <td></td>
+    <td>Determination of the factors influencing the repayment of the loan on time for a credit scoring model</td>
     <td>Pandas, Matplotlib, Seaborn, Phik, Pymystem3, Nltk</td>
   </tr>
     <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/03_Real_estate_research">Research of advertisements for the sale of apartments in Saint Petersburg and the Leningrad region</a></td>
-    <td></td>
+    <td>Exploration of the data of the Yandex Real Estate service - an archive of advertisements for several years about sale of apartments in Saint Petersburg and the Leningrad region - in order to find interesting features and dependencies that exist in the real estate market and to determine factors that most strongly influence cost of apartments</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, Phik, Geopy</td>
   </tr>
   <tr>
