@@ -9,7 +9,7 @@ The mobile operator Megaline offers customers two tariff plans to choose from: â
 To build a machine learning model that will select the appropriate tariff for the user.
 
 #### Tasks:
-- To review the data;
+- To explore the data;
 - To explore the quality of various models with different hyperparameters;
 - To check models for adequacy;
 - To build a model with the highest accuracy value (at least 0.75).
