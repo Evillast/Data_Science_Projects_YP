@@ -1,4 +1,4 @@
-# Model for predicting the recovery rate of gold from ore
+# Model for predicting the gold recovery rate from ore
 ​
 #### Purpose of the study:
 
