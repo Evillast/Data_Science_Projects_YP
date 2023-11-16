@@ -5,7 +5,7 @@
 To build a machine learning model that can predict, whether a client will leave the bank in the near future or not, based on historical data on client behavior and termination of contracts with the bank.
 
 #### Tasks:
-- To review the data;
+- To explore the data;
 - To perform data preprocessing;
 - To build a machine learning model with an extremely large F1-measure value (at least 0.59);
 - To measure AUC-ROC and to compare its value with the F1-measure.
