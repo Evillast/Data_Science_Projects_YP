@@ -2,7 +2,7 @@
 ​
 #### Purpose of the study:
 
-To prepare a prototype of a machine learning model that will predict the recovery rate of gold from gold ore and thereby help optimize production in order not to launch an enterprise with unprofitable characteristics.
+To prepare a prototype of a machine learning model that will predict the recovery rate of gold from gold ore and thereby will help optimize production in order not to launch an enterprise with unprofitable characteristics.
 
 #### Tasks:
 - To explore the data and to check whether the efficiency of ore enrichment is calculated correctly;
