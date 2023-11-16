@@ -43,12 +43,12 @@ Projects are presented in the form of iPython Notebooks. Each project comes with
   </tr>
   <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/07_Bank_churn_ml">Model for predicting bank customer churn</a></td>
-    <td></td>
+    <td>Building a machine learning model that can predict, whether a customer will leave the bank in the near future or not, based on historical data on customer behavior and termination of contracts with the bank</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, Sklearn</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/08_Boreholes_revenue_ml">Model for selecting a region for oil wells drilling</a></td>
-    <td></td>
+    <td>Selection of a region for developing new oil wells where mining will bring the greatest profit by building a machine learning model and analyzing possible profits and risks using the Bootstrap technique</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, Sklearn</td>
   </tr>
   <tr>
