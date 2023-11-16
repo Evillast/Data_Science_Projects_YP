@@ -6,7 +6,7 @@ The mobile operator “Megaline” offers customers two tariff plans to choose f
 
 #### Purpose of the study:
 
-To build a machine learning model that will select the appropriate tariff for the user.
+To build a machine learning model that will select the appropriate tariff for the customer.
 
 #### Tasks:
 - To explore the data;
