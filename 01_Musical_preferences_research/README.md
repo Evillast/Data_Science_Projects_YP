@@ -1,4 +1,4 @@
-# Musical preferences research of residents of Moscow and St. Petersburg
+# Musical preferences research of residents of Moscow and Saint Petersburg
 
 #### Purpose of the study:
 
