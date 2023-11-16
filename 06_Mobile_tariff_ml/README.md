@@ -2,7 +2,7 @@
 
 #### Introduction
 
-The mobile operator Megaline offers customers two tariff plans to choose from: “Smart” and “Ultra”. We have data on the behavior of customers who have already switched to one of these tariffs.
+The mobile operator “Megaline” offers customers two tariff plans to choose from: “Smart” and “Ultra”. We have data on the behavior of customers who have already switched to one of these tariffs.
 
 #### Purpose of the study:
 
