@@ -2,7 +2,7 @@
 
 #### Introduction
 
-The mobile operator “Megaline” offers customers two tariff plans to choose from: “Smart” and “Ultra”. To adjust the advertising budget, the commercial department wants to understand which tariff brings in more money.
+The mobile operator “Megaline” offers customers two tariff plans to choose from: “Smart” and “Ultra”. To adjust the advertising budget, the commercial department wants to understand which tariff brings greater profit.<br>
 We have at our disposal the data of 500 “Megaline” users: who they are, where they are from, what tariff they use, how many calls and messages each person sent in 2018.
 
 #### Purpose of the study:
