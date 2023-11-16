@@ -53,11 +53,11 @@ Projects are presented in the form of iPython Notebooks. Each project comes with
   </tr>
   <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/09_Flotation_output_ml">Model for predicting the gold recovery rate from ore</a></td>
-    <td></td>
+    <td>Preparation of a machine learning model prototype that will predict the recovery rate of gold from gold ore and thereby will help optimize production in order not to launch an enterprise with unprofitable characteristics</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, Sklearn</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Evillast/Data_Science_Projects_YP/tree/main/10_Data_encoding_algorithm">Encryption algorithm to protect customer data</a></td>
-    <td></td>
+    <td>Development of an algorithm for protecting personal data of insurance company clients.</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, Phik, Sklearn</td>
   </tr>
