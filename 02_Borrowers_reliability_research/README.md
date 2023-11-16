@@ -5,7 +5,7 @@
 To determine the factors influencing the repayment of the loan on time. The results of the study will be taken into account when constructing a credit scoring model - a system that assesses the ability of a potential borrower to repay the loan to the bank.
 
 #### Tasks:
-- To review the data;
+- To explore the data;
 - To perform data preprocessing;
 - To conduct exploratory data analysis:
     - Determine which factors most influence the fact of repaying the loan on time;
@@ -17,7 +17,7 @@ To determine the factors influencing the repayment of the loan on time. The resu
 - Seaborn
 - Phik
 - Pymystem3
-- Nltk.stem
+- Nltk
 
 #### Short summary:
 - Based on the results of this study, it is possible to create a portrait of a potentially reliable borrower. This is a woman over 45 years old with a work experience of 10 years or more, in the civil service or retired, or possibly the owner of a company, who is or was previously married, without children, with higher education, with an income of less than 50 thousand rubles or from 200 to 700 thousand rubles, which takes out a loan for real estate transactions.
